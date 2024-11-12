@@ -154,3 +154,8 @@ Data/
 Dataset/
 efficientnet_finetuned.pth
 /out
+*.pth
+*.h5
+*.keras
+*.npy
+training_metricsbest2.txt
