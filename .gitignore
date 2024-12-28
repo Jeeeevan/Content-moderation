@@ -159,3 +159,4 @@ efficientnet_finetuned.pth
 *.keras
 *.npy
 training_metricsbest2.txt
+/weights
